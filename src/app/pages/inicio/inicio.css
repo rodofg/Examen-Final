@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    height: 570px;
+
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border: 2px solid #000;
+    padding: 20px;
+
+}
+.imagen img{
+
+    width: 150px;
+    height: auto;
+
+}
+.texto{
+    max-width: 500px;
+}
